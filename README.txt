@@ -16,4 +16,4 @@ jeVxEhBcWw3kU4EyE7yE
 I filen "using Microsft.Win32;.cs"
 Finder du source koden til virussen hvis du har lyst til at lave noget om i den
 Virussen er fuld og fra bunden lavet af mig! Ingen kan tage credit for dette!
-Hvis der findes nogen som har virussen og tager credit for den skal i direkte henvende jer til mig! på "Green!#6666" discord
+Hvis der findes nogen som har virussen og tager credit for den skal i direkte henvende jer til mig! på "Greene#0730" discord
